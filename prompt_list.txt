@@ -1,0 +1,101 @@
+1.	Create a program that calculates the factorial of a user-inputted number in Python.
+2.	Write a C program that prints the Fibonacci sequence to a user-specified number.
+3.	Create a simple game using C++ and the SFML library.
+4.	Build an essential website using HTML and CSS that displays a portfolio of your past projects.
+5.	Write a Python script that scrapes a website for data and stores it in a CSV file.
+6.	Create a program that encrypts and decrypts messages using the Caesar Cipher in C.
+7.	Build a calculator using C++ and the Qt framework.
+8.	Create a responsive landing page for a fictional business using HTML and CSS.
+9.	Write a Python script that automates the sending of emails using the smtplib library.
+10.	Create a program that generates random passwords in C.
+11.	Build a basic to-do list application using C++ and STL.
+12.	Create a website layout using HTML and CSS, incorporating a sticky navigation bar.
+13.	Write a Python script that downloads images from a specified URL and saves them to a local directory.
+14.	Create a program that implements the bubble sort algorithm in C.
+15.	Build a simple game using C++ and the SDL library.
+16.	Create a website for a local restaurant using HTML and CSS.
+17.	Write a Python script that performs sentiment analysis on tweets using the Natural Language Toolkit (NLTK).
+18.	Create a program that calculates the Greatest Common Divisor (GCD) of two user-inputted numbers in C.
+19.	Build a basic weather application using C++ and the OpenWeatherMap API.
+20.	Create a website for a fictional e-commerce store using HTML and CSS.
+21.	Write a Python script that generates a random maze and solves it using the breadth-first search algorithm.
+22.	Create a program that converts a binary number to a decimal in C.
+23.	Build a simple game using C++ and the Allegro library.
+24.	Create a website for a personal blog using HTML and CSS.
+25.	Write a Python script that compares the performance of different sorting algorithms.
+26.	Create a program that simulates a simple chatbot in C.
+27.	Build a basic news application using C++ and the News API.
+28.	Create a website for a local band using HTML and CSS.
+29.	Write a Python script that generates random passwords that conform to specified complexity requirements.
+30.	Create a program that calculates the Levenshtein distance between two strings in C.
+31.	Build a simple game using C++ and the SFML library.
+32.	Create a website for a fictional bookstore using HTML and CSS.
+33.	Write a Python script that web scrapes a website for data and stores it in a JSON file.
+34.	Create a program that performs matrix operations (e.g. addition, multiplication, transpose) in C.
+35.	Build a basic weather application using C++ and the OpenWeatherMap API.
+36.	Create a website for a local museum using HTML and CSS.
+37.	Write a Python script that generates a random fractal image.
+38.	Create a program that performs basic image processing tasks (e.g. grayscale, edge detection) in C.
+39.	Build a simple game using C++ and the SDL library.
+40.	Create a website for a personal blog using HTML and CSS.
+41.	Write a Python script that generates random mazes and solves them using the depth-first search algorithm.
+42.	Create a program that compresses and decompresses files using the Huffman coding algorithm in C. 43. Build a basic budgeting application using C++ and the SQLite library.
+43.	Creating a simple password generator using HTML, CSS, and JavaScript
+44.	Create a website for a local farmer's market using HTML and CSS.
+45.	Write a Python script that performs text summarization using the Gensim library.
+46.	Create a program that implements the quick sort algorithm in C.
+47.	Build a simple game using C++ and the Allegro library.
+48.	Create a website for a fictional travel agency using HTML and CSS.
+49.	Write a Python script that scrapes job listings from a website and stores them in a database.
+50.	Create a program that generates random fractal landscapes in C.
+51.	Build a basic weather application using C++ and the OpenWeatherMap API.
+52.	Create a website for a local business using HTML and CSS.
+53.	Write a Python script that generates random passwords using the secrets library.
+54.	Create a program that encrypts and decrypts messages using the RSA algorithm in C.
+55.	Build a simple game using C++ and the SFML library.
+56.	Create a website for a fictional fashion store using HTML and CSS.
+57.	Write a Python script that performs sentiment analysis on text using the TextBlob library.
+58.	Create a program that simulates a simple traffic light in C.
+59.	Build a basic budgeting application using C++ and the SQLite library.
+60.	Create a website for a local bakery using HTML and CSS.
+61.	Write a Python script that performs image recognition using the TensorFlow library.
+62.	Create a program that implements the merge sort algorithm in C.
+63.	Build a simple game using C++ and the SDL library.
+64.	Create a website for a fictional beauty salon using HTML and CSS.
+65.	Write a Python script that generates random mazes and solves them using the A* algorithm.
+66.	Create a program that performs basic audio processing tasks (e.g. volume adjustment, pitch shifting) in C.
+67.	Build a basic weather application using C++ and the OpenWeatherMap API.
+68.	Create a website for a local restaurant using HTML and CSS.
+69.	Write a Python script that generates random fractal images using the Pycairo library.
+70.	Create a program that calculates the minimum spanning tree of a graph in C.
+71.	Build a simple game using C++ and the SFML library.
+72.	Create a website for a local band using HTML and CSS.
+73.	Write a Python script that performs text classification using the Scikit-learn library.
+74.	Create a program that simulates a simple chatbot in C.
+75.	Build a basic budgeting application using C++ and the SQLite library.
+76.	Create a website for a fictional travel agency using HTML and CSS.
+77.	Write a Python script that performs image compression using the Pillow library.
+78.	Create a program that implements the radix sort algorithm in C.
+79.	Build a simple game using C++ and the Allegro library.
+80.	Create a website for a local farmer's market using HTML and CSS.
+81.	Write a Python script that generates random fractal landscapes using the Pycairo library.
+82.	Create a program that performs basic video processing tasks (e.g. colour correction, video stabilization) in C.
+83.	Build a basic weather application using C++ and the OpenWeatherMap API.
+84.	Create a website for a local business using HTML and CSS.
+85.	Write a Python script that performs text summarization using the NLTK library.
+86.	Create a program that implements the knapsack problem using dynamic programming in C.
+87.	Build a simple game using C++ and the SFML library.
+88.	Create a website for a fictional fashion store using HTML and CSS.
+89.	Write a Python script that performs natural language processing using the SpaCy library.
+90.	Create a program that simulates a simple physics engine in C.
+91.	Build a basic budgeting application using C++ and the SQLite library.
+92.	Create a website for a local bakery using HTML and CSS.
+93.	Write a Python script that generates random fractal images using the matplotlib library.
+94.	Create a program that implements Dijkstra's algorithm for shortest pathfinding in C.
+95.	Build a simple game using C++ and the SDL library.
+96.	Create a website for a fictional beauty salon using HTML and CSS.
+97.	Write a Python script that performs facial recognition using the OpenCV library.
+98.	Create a program that simulates a simple game of chess in C.
+99.	Build a basic code for a game called GuessTheNumber which would generate an random number and then you have to guess the number. It can tell you if you guessed higher or lower number. 
+100.	Create a website for a local restaurant using HTML and CSS and add interactivity using JavaScript.
+
